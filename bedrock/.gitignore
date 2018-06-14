@@ -13,7 +13,7 @@ web/.htaccess
 # Dotenv
 .env
 .env.*
-
+!.env.example
 
 # Composer
 vendor/*

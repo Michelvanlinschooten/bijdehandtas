@@ -26,14 +26,11 @@ var header_bottom_border_weight = 1;
 var scroll_amount_for_fixed_hiding = 200;
 var paspartu_width_init = 0.02;
 var add_for_admin_bar = 0;
-	scroll_amount_for_sticky = 200;
+	scroll_amount_for_sticky = 100;
         scroll_amount_for_fixed_hiding = 200;
     
 var logo_height = 130; // proya logo height
 var logo_width = 280; // proya logo width
-	logo_height = 102;
-	logo_width = 296;
-	
 	header_top_height = 0;
 var loading_text;
 loading_text = 'Loading new posts...';

@@ -406,7 +406,7 @@ header.fixed_hiding.scrolled .header_top {
 
 
 								.content{
-				margin-top: -231px;
+				margin-top: -129px;
 			}
 			
 	.content.content_top_margin{
@@ -425,7 +425,7 @@ header.fixed_hiding.scrolled .header_top {
 
         header.fixed_hiding .q_logo a,
         header.fixed_hiding .q_logo{
-            max-height: 51px;
+            max-height: 0px;
         }
 
 
@@ -806,6 +806,18 @@ input.wpcf7-form-control.wpcf7-submit:not([disabled]),
 
 
 
+	.footer_top,
+	.footer_top .footer_col1,
+	.footer_top .container_inner > .widget,
+	.footer_top.footer_top_full > .widget{
+		text-align: center;
+	}
+	.footer_top .footer_col2{
+		text-align: center;
+	}
+	.footer_top .footer_col3{
+		text-align: right;
+	}
 
 
 
